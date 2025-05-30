@@ -1,4 +1,11 @@
-# Exercício Enhgenharia de Software
+# Exercício Engenharia de Software
+
+# Rodar
+
+```
+cd todo-testing-app
+npm run test
+```
 
 ## Estrutura do Projeto
 
